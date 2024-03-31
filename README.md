@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-website-tau-peach.vercel.app](portfolio-website-tau-peach.vercel.app)
 
-- 💬 Ask me about **PERN, MERN, Data Science, Machine Learning, Generative A.I.**
+- 💬 Ask me about **PERN, MERN, Data Science, Robotics, Machine Learning, Generative A.I.**
 
 - 📫 How to reach me **aryan.gorde4@gmail.com**
 
