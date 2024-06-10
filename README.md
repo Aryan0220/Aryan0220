@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Machine Learning**
 
-- 👯 I’m looking to collaborate on **E-Commerce Website**
+- 👯 I’m looking to collaborate on **Real Time Editors**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
